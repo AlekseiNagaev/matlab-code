@@ -1,2 +1,2 @@
-# matlab-code
+# Matlab code
 Measurement code, used for low-temperature measurements.
